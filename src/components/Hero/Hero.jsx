@@ -1,12 +1,19 @@
 import React from 'react';
 import './Hero.css';
+import profileImage from '../../assets/image.png';
 
 const Hero = () => {
   return (
-    <section className="hero">
-      <img src="https://via.placeholder.com/150" alt="Your Name" className="hero-image" />
-      <h1 className="hero-title">Aspiring Web Developer</h1>
-      <p className="hero-subtitle">I build beautiful and functional things for the web.</p>
+    <section id="hero" className="hero">
+      <img src={profileImage} alt="Profile" className="hero-image" />
+      <h1 className="hero-title">Frontend-focused developer evolving into fullstack</h1>
+      <h2 className="hero-subtitle">I enjoy coding and solving problems.</h2>
+      <p className="hero-text">I’m a frontend-focused developer with 5 years of experience building ecommerce solutions with Adobe Commerce (Magento).
+        I enjoy creating accessible, user-friendly interfaces and solving complex problems in both modern and legacy systems. I'd like to gain more 
+        backend experience and become a fullstack developer.
+        
+        Experienced in working across the development lifecycle, including release and deployment processes.</p>
+        <hr/>
     </section>
   );
 };

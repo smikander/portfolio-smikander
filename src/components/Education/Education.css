@@ -1,20 +1,25 @@
-.skills {
+p {
+    margin: 1rem 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.education {
   padding: 2rem;
   text-align: center;
 }
 
-.skills-title {
+.education-title {
 
   margin-bottom: 2rem;
 }
 
-.skills-grid {
+.education-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 1.5rem;
 }
 
-.skills-card {
+.education-card {
   background: linear-gradient(85deg, #5b197573 0%, #5b0d6b00 100%);
   border: 1px solid #ffffff26;
   border-radius: 12px;
@@ -23,22 +28,22 @@
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.skills-card:hover {
+.education-card:hover {
   transform: scale(1.05);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
 
-.skills-card h3 {
+.education-card h3 {
   margin-bottom: 1rem;
   font-size: 1.2rem;
 }
 
-.skills-card ul {
+.education-card ul {
   list-style: none;
   padding: 0;
 }
 
-.skills-card li {
+.education-card li {
   margin-bottom: 0.5rem;
   font-size: 0.95rem;
   opacity: 0.9;

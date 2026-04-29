@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+.navbar-name {
+    font-size: 2rem;
+    font-weight: bold;
+    background: linear-gradient(to right, #b045d8, 
+                    #bb7adc, #c38fe1, #d9b2f3); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+}
+.navbar-links a {
+    text-decoration: none;
+    margin: 1rem;
+}
