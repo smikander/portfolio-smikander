@@ -1,0 +1,23 @@
+{
+    "navbar": {
+        "hero": "Tietoa minusta",
+        "skills": "Taidot",
+        "projects": "Projektit",
+        "contact": "Yhteystiedot"
+    },
+    "hero": {
+        "title": "Frontend-kehittäjä, kasvamassa kohti fullstackia",
+        "subtitle": "Minua motivoi koodaus ja ongelmanratkaisu",
+        "text": "Olen frontend-keskeinen kehittäjä, jolla on viiden vuoden kokemus verkkokaupparatkaisujen rakentamisesta Adobe Commercella (Magento). Minulla on kokemusta saavutettavien ja käyttäjäystävällisten käyttöliittymien luomisesta sekä monimutkaisten ongelmien ratkaisemisesta sekä moderneissa että vanhoissa järjestelmissä. Haluaisin saada lisää backend-kokemusta ja tulla fullstack-kehittäjäksi. Minulla on kokemusta koko kehityksen elinkaaren ajan, mukaan lukien julkaisu- ja ylläpitoprosessit."
+    },
+    "skills": {
+        "title": "Taidot"
+    
+    },
+    "projects": {   
+
+    },
+    "contact": {
+        
+    }        
+}

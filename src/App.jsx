@@ -6,6 +6,7 @@ import Skills from './components/Skills/Skills';
 import Projects from './components/Projects/Projects';
 import Education from './components/Education/Education';
 
+
 function App() {
 
   return (

@@ -1,0 +1,24 @@
+{
+    "navbar": {
+        "hero": "About Me",
+        "skills": "Skills",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Frontend-focused developer evolving into fullstack",
+        "subtitle": "I enjoy coding and solving problems",
+        "text": "I’m a frontend-focused developer with 5 years of experience building ecommerce solutions with Adobe Commerce (Magento). I enjoy creating accessible, user-friendly interfaces and solving complex problems in both modern and legacy systems. I'd like to gain more backend experience and become a fullstack developer. Experienced in working across the development lifecycle, including release and deployment processes."
+
+    },
+    "skills": {
+        "title": "Skills"
+    },
+    "projects": {   
+
+    },
+    "contact": {
+
+    }        
+
+}

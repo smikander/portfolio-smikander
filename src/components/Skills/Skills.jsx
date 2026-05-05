@@ -1,5 +1,8 @@
 import React from "react";
 import "./Skills.css";
+import '../../i18n'; // Import i18n configuration
+import { useTranslation } from 'react-i18next';
+
 
 const skillsData = [
   {
@@ -83,13 +86,14 @@ const skillsData = [
 ];
 
 const Skills = () => {
+  const { t } = useTranslation();
   return (
     <section id="skills" className="skills">
-      <h2 className="skills-title">Skills</h2>
+      <h2 className="skills-title">{t('skills.title')}</h2>
       <div className="skills-grid">
         {skillsData.map((category, index) => (
           <div className="skills-card" key={index}>
-            <h3>{category.title}</h3>
+            <h3>{t(`${category.title}`)}</h3>
             <ul>
               {category.items.map((item, i) => (
                 <li key={i}>{item}</li>
