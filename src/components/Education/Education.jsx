@@ -1,5 +1,7 @@
 import React from "react";
 import "./Education.css";
+import '../../i18n'; // Import i18n configuration
+import { useTranslation } from 'react-i18next';
 
 const educationData = [
   {
@@ -23,16 +25,17 @@ const educationData = [
 ];
 
 const Education = () => {
+  const { t } = useTranslation();
   return (
     <section id="education" className="education">
       <h2 className="education-title">Education</h2>
       <div className="education-grid">
         {educationData.map((edu, index) => (
           <div className="education-card" key={index}>
-            <h3 className="education-institution">{edu.institution}</h3>
-            <p className="education-degree">{edu.degree}</p>
-            <p className="education-year">{edu.year}</p>
-            <p className="education-content">{edu.content}</p>
+            <h3 className="education-institution">{t(`education.${edu.institution}`)}</h3>
+            <p className="education-degree">{t(`education.${edu.degree}`)}</p>
+            <p className="education-year">{t(`education.${edu.year}`)}</p>
+            <p className="education-content">{t(`education.${edu.content}`)}</p>
           </div>
         ))}
       </div>

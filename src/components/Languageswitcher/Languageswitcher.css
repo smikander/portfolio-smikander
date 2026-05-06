@@ -1,0 +1,17 @@
+.language-switcher {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+}
+.language-button {
+    background: linear-gradient(85deg, #b83fe773 0%, #5b0d6b00 100%);
+    border: 1px solid #ffffff26;
+    color: white;
+    padding: 10px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+.language-button:hover {
+    background-color:  #b045d8;
+}

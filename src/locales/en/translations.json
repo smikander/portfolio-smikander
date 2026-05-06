@@ -3,22 +3,48 @@
         "hero": "About Me",
         "skills": "Skills",
         "projects": "Projects",
+        "education": "Education",
         "contact": "Contact"
     },
     "hero": {
         "title": "Frontend-focused developer evolving into fullstack",
-        "subtitle": "I enjoy coding and solving problems",
+        "subtitle": "I'm motivated by problem-solving and continuous learning",
         "text": "I’m a frontend-focused developer with 5 years of experience building ecommerce solutions with Adobe Commerce (Magento). I enjoy creating accessible, user-friendly interfaces and solving complex problems in both modern and legacy systems. I'd like to gain more backend experience and become a fullstack developer. Experienced in working across the development lifecycle, including release and deployment processes."
 
     },
     "skills": {
-        "title": "Skills"
+        "title": "Skills",
+        "Frontend": "Frontend",
+        "Backend (Growing)": "Backend (Growing)",
+        "Ecommerce": "Ecommerce",
+        "Frameworks": "Frameworks",
+        "Release & Deployment": "Release & Deployment",
+        "Tools": "Tools",
+        "Soft Skills": "Soft Skills",
+        "Other Skills": "Other Skills",
+        "Languages": "Languages"
     },
     "projects": {   
+        "title": "Projects"
 
     },
+    "education": {
+        "title": "Education",
+        "South-Eastern Finland University of Applied Sciences": "South-Eastern Finland University of Applied Sciences",
+        "Bachelor of Business Information Technology": "Bachelor of Business Information Technology",
+        "Basics of programming, application programming, databases, 3D modeling, games and gamification, graphic design, image processing, service design, and more.": "Basics of programming, application programming, databases, 3D modeling, games and gamification, graphic design, image processing, service design, and more.",
+        "Savonia University of Applied Sciences": "Savonia University of Applied Sciences",
+        "Complementary Degree in BCA (Bachelor of Culture and Arts)": "Complementary Degree in BCA (Bachelor of Culture and Arts)",
+        "Focus on research-based activity in crafts and design, graphic design and multimedia production.": "Focus on research-based activity in crafts and design, graphic design and multimedia production.",
+        "Online Courses": "Online Courses",
+        "Various online courses": "Various online courses",
+        "Continuous learning through platforms like Udemy and Helsinki University to stay updated with the latest technologies and best practices in frontend and backend development.": "Continuous learning through platforms like Udemy and Helsinki University to stay updated with the latest technologies and best practices in frontend and backend development.",
+        "2018 - 2021": "2018 - 2021",
+        "2003 - 2004": "2003 - 2004",
+        "Ongoing": "Ongoing"
+    },
     "contact": {
-
+        "title": "Contact"
     }        
 
 }

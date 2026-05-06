@@ -3,21 +3,49 @@
         "hero": "Tietoa minusta",
         "skills": "Taidot",
         "projects": "Projektit",
+        "education": "Koulutus",
         "contact": "Yhteystiedot"
     },
     "hero": {
         "title": "Frontend-kehittäjä, kasvamassa kohti fullstackia",
-        "subtitle": "Minua motivoi koodaus ja ongelmanratkaisu",
-        "text": "Olen frontend-keskeinen kehittäjä, jolla on viiden vuoden kokemus verkkokaupparatkaisujen rakentamisesta Adobe Commercella (Magento). Minulla on kokemusta saavutettavien ja käyttäjäystävällisten käyttöliittymien luomisesta sekä monimutkaisten ongelmien ratkaisemisesta sekä moderneissa että vanhoissa järjestelmissä. Haluaisin saada lisää backend-kokemusta ja tulla fullstack-kehittäjäksi. Minulla on kokemusta koko kehityksen elinkaaren ajan, mukaan lukien julkaisu- ja ylläpitoprosessit."
+        "subtitle": "Minua motivoi ongelmanratkaisu ja jatkuva oppiminen",
+        "text": "Olen frontend-keskeinen kehittäjä, jolla on viiden vuoden kokemus verkkokaupparatkaisujen rakentamisesta Adobe Commercella (Magento). Minulla on kokemusta saavutettavien ja käyttäjäystävällisten käyttöliittymien luomisesta sekä monimutkaisten ongelmien ratkaisemisesta sekä moderneissa että vanhoissa järjestelmissä. Haluaisin saada lisää backend-kokemusta ja tulla fullstack-kehittäjäksi. Minulla on kokemusta koko kehityksen elinkaarelta, mukaan lukien julkaisu- ja ylläpitoprosessit."
     },
     "skills": {
-        "title": "Taidot"
+        "title": "Taidot",
+        "Frontend": "Frontend",
+        "Backend (Growing)": "Backend (kehittymässä)",
+        "Ecommerce": "Verkkokauppa",
+        "Frameworks": "Frameworkit",
+        "Release & Deployment": "Julkaisu & Ylläpito",
+        "Tools": "Työkalut",
+        "Soft Skills": "Pehmeät taidot",
+        "Other Skills": "Muut taidot",
+        "Languages": "Kielet"
     
     },
     "projects": {   
-
+        "title": "Projektit",
+        "Ecommerce Platform Customizations and Improvements": "Verkkokauppa-alustan räätälöinnit ja parannukset",
+        "Worked on various customizations and improvements for an ecommerce platform built with Adobe Commerce (Magento). This included optimizing performance, enhancing user experience, and implementing new features to meet business requirements.": "Työskentelin erilaisissa räätälöinneissä ja parannuksissa Adobe Commerce (Magento) -pohjaiselle verkkokauppa-alustalle. Tämä sisälsi suorituskyvyn optimointia, käyttäjäkokemuksen parantamista ja uusien ominaisuuksien toteuttamista liiketoiminnan vaatimusten täyttämiseksi."
+    },
+    "education": {
+        "title": "Koulutus",
+        "South-Eastern Finland University of Applied Sciences": "Kaakkois-Suomen ammattikorkeakoulu",
+        "Bachelor of Business Information Technology": "Tradenomi (AMK), tietojenkäsittely",
+        "Basics of programming, application programming, databases, 3D modeling, games and gamification, graphic design, image processing, service design, and more.": "Ohjelmoinnin perusteet, web-kehitys, tietokannat, 3D-mallinnus, pelit ja pelillistäminen, graafinen suunnittelu, kuvankäsittely, palvelumuotoilu ja paljon muuta.",
+        "Savonia University of Applied Sciences": "Savonia-ammattikorkeakoulu",
+        "Complementary Degree in BCA (Bachelor of Culture and Arts)": "Muotoilija (AMK)",
+        "Focus on research-based activity in crafts and design, graphic design and multimedia production.": "Painotus tutkimusperusteiseen toimintaan käsityössä ja muotoilussa, graafisessa suunnittelussa ja multimedia-tuotannossa.",
+        "Online Courses": "Verkkokurssit",
+        "Various online courses": "Erilaisia verkkokursseja",
+        "Continuous learning through platforms like Udemy and Helsinki University to stay updated with the latest technologies and best practices in frontend and backend development.": "Jatkuvaa oppimista Udemy- ja Helsingin yliopiston kaltaisten alustojen kautta pysyäkseni ajan tasalla uusimmista teknologioista ja parhaista käytännöistä frontend- ja backend-kehityksessä.",
+        "2018 - 2021": "2018 - 2021",
+        "2003 - 2004": "2003 - 2004",
+        "Ongoing": "Jatkuva"
     },
     "contact": {
+        "title": "Ota yhteyttä"
         
     }        
 }

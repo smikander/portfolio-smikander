@@ -41,7 +41,7 @@ const skillsData = [
     ]
   },
   {
-    title: "Release & Delivery",
+    title: "Release & Deployment",
     items: [
       "Managing releases for Adobe Commerce (Magento) in production and staging environments"
     ]
@@ -93,7 +93,7 @@ const Skills = () => {
       <div className="skills-grid">
         {skillsData.map((category, index) => (
           <div className="skills-card" key={index}>
-            <h3>{t(`${category.title}`)}</h3>
+            <h3>{t(`skills.${category.title}`)}</h3>
             <ul>
               {category.items.map((item, i) => (
                 <li key={i}>{item}</li>

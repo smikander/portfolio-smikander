@@ -20,6 +20,7 @@ console.log('Current language:', i18n.language); // Debugging log
         <a href="#hero">{t('navbar.hero')}</a>
         <a href="#skills">{t('navbar.skills')}</a>
         <a href="#projects">{t('navbar.projects')}</a>
+        <a href="#education">{t('navbar.education')}</a>
         <a href="#contact">{t('navbar.contact')}</a>
       </div>
       <LanguageSwitcher />
