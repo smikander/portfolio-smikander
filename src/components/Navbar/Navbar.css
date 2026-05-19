@@ -71,6 +71,7 @@
     .navbar-name {
         transition: transform 0.3s ease;
         position: absolute;
+        margin: 10px 0;
         top: 65px;
     }
 }
