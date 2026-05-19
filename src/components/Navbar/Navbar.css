@@ -67,3 +67,10 @@
         top: 20px;
     }
 }   
+@media (max-width: 500px) {
+    .navbar-name {
+        transition: transform 0.3s ease;
+        position: absolute;
+        top: 65px;
+    }
+}

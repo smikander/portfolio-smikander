@@ -1,3 +1,6 @@
+.hero {
+    padding: 0 20px;
+}
 .hero-image {
     width: 150px;
     height: 150px;
@@ -8,6 +11,7 @@
 .hero-title {
     font-size: 2.5em;
     margin: 35px 0;
+    line-height: 33px;
 }
 .hero-subtitle {
     font-size: 1.8em;
