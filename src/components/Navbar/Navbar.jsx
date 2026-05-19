@@ -14,7 +14,15 @@ const Navbar = () => {
     i18n.changeLanguage(navigator.language); // Change to desired language
   }, []);
 
-console.log('Current language:', i18n.language); // Debugging log
+//console.log('Current language:', i18n.language); // Debugging log
+  const closeMenu = () => {
+    setIsOpen(false);
+  };
+  document.addEventListener('mousedown', (event) => {
+    if (!event.target.closest('.navbar')) {
+      closeMenu();
+    }
+  });
   return (
     <nav className="navbar">
       <span className="navbar-name">Sari Mikander</span>

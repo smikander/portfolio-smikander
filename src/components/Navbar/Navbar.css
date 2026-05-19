@@ -69,9 +69,11 @@
 }   
 @media (max-width: 500px) {
     .navbar-name {
-        transition: transform 0.3s ease;
-        position: absolute;
-        margin: 10px 0;
-        top: 65px;
+        font-size: 1.2rem;
+        text-overflow: ellipsis;
+    }
+    .navbar button {
+        scale: calc(0.8);
+        
     }
 }
