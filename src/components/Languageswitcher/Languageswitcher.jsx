@@ -3,13 +3,14 @@ import './Languageswitcher.css';
 import '../../i18n'; // Import i18n configuration
 import { useTranslation } from 'react-i18next'; 
 import { useEffect } from "react";
+import { useState } from "react";
 
 const LanguageSwitcher = () => {
   const { i18n } = useTranslation();
     
   const changeLanguage = (lng) => {
     localStorage.setItem('i18nextLng', lng); // Store the selected language in localStorage
-    window.location.reload(); // Reload the page to apply the new language
+    i18n.changeLanguage(lng); // Change the language
   };
 
   useEffect(() => {

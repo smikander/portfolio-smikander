@@ -52,11 +52,12 @@ const skillsData = [
       "Git / GitHub",
       "Docker",
       "Jira",
-      "Confluence"
+      "Confluence",
+      "AI tools"
     ]
   },
   {
-    title: "Soft Skills",
+    title: "Power Skills",
     items: [
       "Persistence and continuous learning",
       "Teamwork",

@@ -20,12 +20,14 @@
         "Frameworks": "Frameworks",
         "Release & Deployment": "Release & Deployment",
         "Tools": "Tools",
-        "Soft Skills": "Soft Skills",
+        "Power Skills": "Power Skills",
         "Other Skills": "Other Skills",
         "Languages": "Languages"
     },
     "projects": {   
-        "title": "Projects"
+        "title": "Projects",
+        "Ecommerce Platform Customizations and Improvements": "Ecommerce Platform Customizations and Improvements",
+        "Worked on various customizations and improvements for an ecommerce platform built with Adobe Commerce (Magento). This included optimizing performance, enhancing user experience, and implementing new features to meet business requirements.": "Worked on various customizations and improvements for an ecommerce platform built with Adobe Commerce (Magento). This included optimizing performance, enhancing user experience, and implementing new features to meet business requirements."
 
     },
     "education": {
@@ -38,7 +40,7 @@
         "Focus on research-based activity in crafts and design, graphic design and multimedia production.": "Focus on research-based activity in crafts and design, graphic design and multimedia production.",
         "Online Courses": "Online Courses",
         "Various online courses": "Various online courses",
-        "Continuous learning through platforms like Udemy and Helsinki University to stay updated with the latest technologies and best practices in frontend and backend development.": "Continuous learning through platforms like Udemy and Helsinki University to stay updated with the latest technologies and best practices in frontend and backend development.",
+        "Continuous learning through platforms like Udemy, Anthropic and Helsinki University to stay updated with the latest technologies and best practices in frontend and backend development.": "Continuous learning through platforms like Udemy, Anthropic and Helsinki University to stay updated with the latest technologies and best practices in frontend and backend development.",
         "2018 - 2021": "2018 - 2021",
         "2003 - 2004": "2003 - 2004",
         "Ongoing": "Ongoing"

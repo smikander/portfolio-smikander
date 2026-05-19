@@ -9,7 +9,7 @@
     "hero": {
         "title": "Frontend-kehittäjä, kasvamassa kohti fullstackia",
         "subtitle": "Minua motivoi ongelmanratkaisu ja jatkuva oppiminen",
-        "text": "Olen frontend-keskeinen kehittäjä, jolla on viiden vuoden kokemus verkkokaupparatkaisujen rakentamisesta Adobe Commercella (Magento). Minulla on kokemusta saavutettavien ja käyttäjäystävällisten käyttöliittymien luomisesta sekä monimutkaisten ongelmien ratkaisemisesta sekä moderneissa että vanhoissa järjestelmissä. Haluaisin saada lisää backend-kokemusta ja tulla fullstack-kehittäjäksi. Minulla on kokemusta koko kehityksen elinkaarelta, mukaan lukien julkaisu- ja ylläpitoprosessit."
+        "text": "Olen työskennellyt tähän mennessä pääasiassa frontend-kehityksen parissa. Minulla on viiden vuoden kokemus verkkokaupparatkaisujen kehittämisestä Adobe Commercella (Magento). Olen luonut saavutettavia ja käyttäjäystävällisiä käyttöliittymiä sekä ratkaissut monimutkaisia ongelmia niin moderneissa kuin vanhoissakin järjestelmissä.Haluan kehittää osaamistani myös backend-puolella ja kasvaa fullstack-kehittäjäksi. Minulla on kokemusta koko ohjelmistokehityksen elinkaaresta, mukaan lukien julkaisu- ja käyttöönottoprosessit."
     },
     "skills": {
         "title": "Taidot",
@@ -17,9 +17,9 @@
         "Backend (Growing)": "Backend (kehittymässä)",
         "Ecommerce": "Verkkokauppa",
         "Frameworks": "Frameworkit",
-        "Release & Deployment": "Julkaisu & Ylläpito",
+        "Release & Deployment": "Julkaisu & käyttöönotto",
         "Tools": "Työkalut",
-        "Soft Skills": "Pehmeät taidot",
+        "Power Skills": "Metataidot",
         "Other Skills": "Muut taidot",
         "Languages": "Kielet"
     
@@ -39,7 +39,7 @@
         "Focus on research-based activity in crafts and design, graphic design and multimedia production.": "Painotus tutkimusperusteiseen toimintaan käsityössä ja muotoilussa, graafisessa suunnittelussa ja multimedia-tuotannossa.",
         "Online Courses": "Verkkokurssit",
         "Various online courses": "Erilaisia verkkokursseja",
-        "Continuous learning through platforms like Udemy and Helsinki University to stay updated with the latest technologies and best practices in frontend and backend development.": "Jatkuvaa oppimista Udemy- ja Helsingin yliopiston kaltaisten alustojen kautta pysyäkseni ajan tasalla uusimmista teknologioista ja parhaista käytännöistä frontend- ja backend-kehityksessä.",
+        "Continuous learning through platforms like Udemy, Anthropic and Helsinki University to stay updated with the latest technologies and best practices in frontend and backend development.": "Jatkuvaa oppimista Udemy-, Anthropic- ja Helsingin yliopiston kaltaisten alustojen kautta pysyäkseni ajan tasalla uusimmista teknologioista ja parhaista käytännöistä frontend- ja backend-kehityksessä.",
         "2018 - 2021": "2018 - 2021",
         "2003 - 2004": "2003 - 2004",
         "Ongoing": "Jatkuva"

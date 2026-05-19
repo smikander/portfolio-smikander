@@ -20,7 +20,7 @@ const educationData = [
     institution: "Online Courses",
     degree: "Various online courses",
     year: "Ongoing",
-    content: "Continuous learning through platforms like Udemy and Helsinki University to stay updated with the latest technologies and best practices in frontend and backend development."
+    content: "Continuous learning through platforms like Udemy, Anthropic and Helsinki University to stay updated with the latest technologies and best practices in frontend and backend development."
   }      
 ];
 
@@ -28,7 +28,7 @@ const Education = () => {
   const { t } = useTranslation();
   return (
     <section id="education" className="education">
-      <h2 className="education-title">Education</h2>
+      <h2 className="education-title">{t('education.title')}</h2>
       <div className="education-grid">
         {educationData.map((edu, index) => (
           <div className="education-card" key={index}>
