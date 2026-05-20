@@ -9,7 +9,7 @@
     "hero": {
         "title": "Frontend-kehittäjä, kasvamassa kohti fullstackia",
         "subtitle": "Minua motivoi ongelmanratkaisu ja jatkuva oppiminen",
-        "text": "Olen työskennellyt tähän mennessä pääasiassa frontend-kehityksen parissa. Minulla on viiden vuoden kokemus verkkokaupparatkaisujen kehittämisestä Adobe Commercella (Magento). Olen luonut saavutettavia ja käyttäjäystävällisiä käyttöliittymiä sekä ratkaissut monimutkaisia ongelmia niin moderneissa kuin vanhoissakin järjestelmissä.Haluan kehittää osaamistani myös backend-puolella ja kasvaa fullstack-kehittäjäksi. Minulla on kokemusta koko ohjelmistokehityksen elinkaaresta, mukaan lukien julkaisu- ja käyttöönottoprosessit."
+        "text": "Olen työskennellyt tähän mennessä pääasiassa frontend-kehityksen parissa. Minulla on viiden vuoden kokemus verkkokaupparatkaisujen kehittämisestä Adobe Commercella (Magento). Olen luonut saavutettavia ja käyttäjäystävällisiä käyttöliittymiä sekä ratkaissut monimutkaisia ongelmia niin moderneissa kuin vanhoissakin järjestelmissä. Haluan kehittää osaamistani myös backend-puolella ja kasvaa fullstack-kehittäjäksi. Minulla on kokemusta koko ohjelmistokehityksen elinkaaresta, mukaan lukien julkaisu- ja käyttöönottoprosessit."
     },
     "skills": {
         "title": "Taidot",
@@ -43,6 +43,10 @@
         "2018 - 2021": "2018 - 2021",
         "2003 - 2004": "2003 - 2004",
         "Ongoing": "Jatkuva"
+    },
+    "references": {
+        "title": "Suosittelijat",
+        "References on request": "Suosittelijat saatavilla pyynnöstä"
     },
     "contact": {
         "title": "Ota yhteyttä"

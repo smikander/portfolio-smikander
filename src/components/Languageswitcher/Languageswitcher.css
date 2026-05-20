@@ -5,7 +5,8 @@
     z-index: 1000;
 }
 .language-button {
-    background: linear-gradient(85deg, #b83fe773 0%, #5b0d6b00 100%);
+    background-image: linear-gradient(85deg, #b83fe773 0%, #5b0d6b00 100%);
+    
     border: 1px solid #ffffff26;
     color: #f3f3f3;
     padding: 10px 20px;
