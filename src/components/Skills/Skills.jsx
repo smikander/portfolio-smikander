@@ -63,7 +63,11 @@ const skillsData = [
       "Persistence and continuous learning",
       "Teamwork",
       "Problem-solving",
-      "Resilience"
+      "Resilience",
+      "Adaptability",
+      "Creativity",
+      "Empathy",
+      "Curiosity"
     ]
   },
   {
