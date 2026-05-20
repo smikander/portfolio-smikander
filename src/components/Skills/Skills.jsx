@@ -8,7 +8,7 @@ const skillsData = [
   {
     title: "Frontend",
     items: [
-      "JavaScript (ES6+)",
+      "JavaScript",
       "CSS / LESS",
       "Responsive & accessible UI development",
       "Modern & legacy frontend systems"
@@ -29,7 +29,8 @@ const skillsData = [
       "PHP (Magento backend)",
       "Node.js (learning & projects)",
       "SQL (basics)",
-      "C++ (basics)"
+      "C++ (basics)", 
+      "Java (basics)"
     ]
   },
   {
@@ -97,7 +98,7 @@ const Skills = () => {
             <h3>{t(`skills.${category.title}`)}</h3>
             <ul>
               {category.items.map((item, i) => (
-                <li key={i}>{item}</li>
+                <li key={i}>{t(`skills.${item}`)}</li>
               ))}
             </ul>
           </div>
