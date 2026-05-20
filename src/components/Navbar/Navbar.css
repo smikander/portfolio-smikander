@@ -11,6 +11,7 @@
     font-weight: bold;
     background: linear-gradient(to right, #b045d8, 
                     #bb7adc, #c38fe1, #d9b2f3); 
+    background-clip: text;
     -webkit-text-fill-color: transparent; 
     -webkit-background-clip: text; 
 }
@@ -55,7 +56,7 @@
     }
     .navbar-toggle {
         display: flex;
-        background: linear-gradient(85deg, #b83fe773 0%, #5b0d6b00 100%);
+        background-image: linear-gradient(85deg, #b83fe773 0%, #5b0d6b00 100%);
         border: 1px solid #ffffff26;
         color: #f3f3f3;
         padding: 10px 20px;
