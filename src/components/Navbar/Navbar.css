@@ -71,7 +71,7 @@
 @media (max-width: 500px) {
     .navbar-name {
         font-size: 1.2rem;
-        text-overflow: ellipsis;
+        
     }
     .navbar button {
         scale: calc(0.8);
