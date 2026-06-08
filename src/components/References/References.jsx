@@ -10,7 +10,7 @@ const References = () => {
       <h2 className="references-title">{t('references.title')}</h2>
       <div className="references-grid">
         <div className="reference-card">
-          <h3 className="reference-title">{t('references.References on request')}</h3>
+          <h3 className="reference-title"><a href="https://www.linkedin.com/in/sari-mikander/" target="_blank" rel="noopener noreferrer">{t('references.Recommendations')}</a></h3>
         </div>
       </div>
     </section>
