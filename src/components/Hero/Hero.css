@@ -11,7 +11,7 @@
 .hero-title {
     font-size: 2.5em;
     margin: 35px 0;
-    line-height: 33px;
+    line-height: 50px;
 }
 .hero-subtitle {
     font-size: 1.8em;
@@ -30,6 +30,7 @@
     .hero-title {
         font-size: 1.8em;
         margin: 20px 0;
+        line-height: 35px;
     }
     .hero-subtitle {
         font-size: 1.2em;
