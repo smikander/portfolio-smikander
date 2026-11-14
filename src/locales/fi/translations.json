@@ -49,7 +49,7 @@
         "Adaptability": "Sopeutumiskyky",
         "Creativity": "Luovuus",
         "Empathy": "Empatia",
-        "Curiosity": "Uteliaisuus", 
+        "Curiosity": "Uteliaisuus",
         "Other Skills": "Muut taidot",
         "Agile Development": "Agile-kehitysmenetelmät",
         "Debugging": "Debuggaus",
@@ -62,11 +62,23 @@
         "Swedish (intermediate)": "Ruotsi (keskitaso)",
         "Spanish (basic)": "Espanja (perusteet)"
     },
-    "projects": {   
+    "projects": {
         "title": "Projektit",
-        "Ecommerce Platform Customizations and Improvements": "Verkkokauppa-alustan räätälöinnit ja parannukset",
-        "Worked on various customizations and improvements for an ecommerce platform built with Adobe Commerce (Magento). This included optimizing performance, enhancing user experience, and implementing new features to meet business requirements.": "Työskentelin erilaisissa räätälöinneissä ja parannuksissa Adobe Commerce (Magento) -pohjaiselle verkkokauppa-alustalle. Tämä sisälsi suorituskyvyn optimointia, käyttäjäkokemuksen parantamista ja uusien ominaisuuksien toteuttamista liiketoiminnan vaatimusten täyttämiseksi."
+        "viewCode": "Näytä GitHubissa",
+        "ecommerce": {
+            "title": "Verkkokauppa-alustan räätälöinnit ja parannukset",
+            "description": "Työskentelin erilaisissa räätälöinneissä ja parannuksissa Adobe Commerce (Magento) -pohjaiselle verkkokauppa-alustalle. Tämä sisälsi suorituskyvyn optimointia, käyttäjäkokemuksen parantamista ja uusien ominaisuuksien toteuttamista liiketoiminnan vaatimusten täyttämiseksi."
+        },
+        "login": {
+            "title": "Login Project – Node.js",
+            "description": "Reactilla ja Node.js:llä toteutettu kirjautumissovellus, joka sisältää käyttäjien rekisteröitymisen, kirjautumisen ja salasanan palautustoiminnon. Backend on rakennettu Expressillä ja MySQL-tietokannalla. Käyttäjien tunnistuksessa hyödynnetään JWT-tunnisteita ja salasanat tallennetaan bcrypt-tiivisteinä."
+        },
+        "apiDataFetcher": {
+            "title": "API Data Fetcher – Python",
+            "description": "Pythonilla toteutettu komentorivisovellus, joka hakee ja käsittelee käyttäjätietoja REST API -rajapinnasta. Sisältää tietojen validointia, virheenkäsittelyä ja automaattisia testejä pytestillä."
+        }
     },
+
     "education": {
         "title": "Koulutus",
         "South-Eastern Finland University of Applied Sciences": "Kaakkois-Suomen ammattikorkeakoulu",
@@ -84,10 +96,9 @@
     },
     "references": {
         "title": "Suosittelijat",
-        "Recommendations": "Katso LinkedIn-profiilistani suositukset ja yhteystiedot suosittelijoille."
+        "Recommendations": "Suosittelijoiden yhteystiedot pyynnöstä."
     },
     "contact": {
         "title": "Ota yhteyttä"
-        
-    }        
+    }
 }
