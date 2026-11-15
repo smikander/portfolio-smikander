@@ -1,19 +1,35 @@
+
 .language-switcher {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
 }
+
 .language-button {
-    background-image: linear-gradient(85deg, #b83fe773 0%, #5b0d6b00 100%);
-    
-    border: 1px solid #ffffff26;
-    color: #f3f3f3;
-    padding: 10px 20px;
-    margin: 0 5px;
+    background: linear-gradient(
+        85deg,
+        var(--color-primary),
+        var(--color-surface)
+    );
+
+    border: 1px solid var(--color-primary);
+    color: var(--color-text);
+    padding: 8px 12px;
     cursor: pointer;
     height: 37px;
+    transition: background-color 0.3s ease;
 }
+
 .language-button:hover {
-    background-color:  #b045d8;
+    background: var(--color-primary);
+}
+
+@media (max-width: 1400px) {
+    .language-switcher {
+        margin-top: 0.75rem;
+        padding-top: 0.75rem;
+        border-top: 1px solid var(--color-primary);
+        width: 100%;
+    }
 }

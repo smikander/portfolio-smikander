@@ -10,7 +10,6 @@
         "title": "Frontend-focused developer evolving into fullstack",
         "subtitle": "I'm motivated by problem-solving and continuous learning",
         "text": "I’m a frontend-focused developer with 5 years of experience building ecommerce solutions with Adobe Commerce (Magento). I enjoy creating accessible, user-friendly interfaces and solving complex problems in both modern and legacy systems. I'd like to gain more backend experience and become a fullstack developer. Experienced in working across the development lifecycle, including release and deployment processes."
-
     },
     "skills": {
         "title": "Skills",
@@ -35,7 +34,7 @@
         "Angular (basics)": "Angular (basics)",
         "Magento frontend framework (Knockout.js)": "Magento frontend framework (Knockout.js)",
         "Release & Deployment": "Release & Deployment",
-        "Managing releases for Adobe Commerce (Magento) in production and staging environments": "Managing releases for Adobe Commerce (Magento) in production and staging environments",   
+        "Managing releases for Adobe Commerce (Magento) in production and staging environments": "Managing releases for Adobe Commerce (Magento) in production and staging environments",
         "Tools": "Tools",
         "Git / GitHub": "Git / GitHub",
         "Docker": "Docker",
@@ -63,12 +62,23 @@
         "Swedish (intermediate)": "Swedish (intermediate)",
         "Spanish (basic)": "Spanish (basic)"
     },
-    "projects": {   
+    "projects": {
         "title": "Projects",
-        "Ecommerce Platform Customizations and Improvements": "Ecommerce Platform Customizations and Improvements",
-        "Worked on various customizations and improvements for an ecommerce platform built with Adobe Commerce (Magento). This included optimizing performance, enhancing user experience, and implementing new features to meet business requirements.": "Worked on various customizations and improvements for an ecommerce platform built with Adobe Commerce (Magento). This included optimizing performance, enhancing user experience, and implementing new features to meet business requirements."
-
+        "viewCode": "View on GitHub",
+        "ecommerce": {
+            "title": "Ecommerce Platform Customizations and Improvements",
+            "description": "Worked on various customizations and improvements for an ecommerce platform built with Adobe Commerce (Magento). This included optimizing performance, enhancing user experience, and implementing new features to meet business requirements."
+        },
+        "login": {
+            "title": "Login Project – Node.js",
+            "description": "A login application built with React and Node.js, featuring user registration, authentication, and password reset functionality. The backend uses Express and MySQL, with JWT-based authentication and bcrypt password hashing."
+        },
+        "apiDataFetcher": {
+            "title": "API Data Fetcher – Python",
+            "description": "A Python command-line application that fetches and processes user data from a REST API. Includes data validation, error handling, and automated tests with pytest."
+        }
     },
+
     "education": {
         "title": "Education",
         "South-Eastern Finland University of Applied Sciences": "South-Eastern Finland University of Applied Sciences",
@@ -86,10 +96,9 @@
     },
     "references": {
         "title": "References",
-        "Recommendations": "Check my LinkedIn profile for recommendations and contact details of references."
+        "Recommendations": "Contact info on a request."
     },
     "contact": {
         "title": "Contact"
-    }        
-
+    }
 }

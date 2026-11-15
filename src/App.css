@@ -1,3 +1,7 @@
 body {
-    background: linear-gradient(135deg, #3d228f 0%, #1d1730 100%);
+    background: linear-gradient(
+        135deg,
+        var(--color-primary) 0%,
+        var(--color-background) 100%
+    );
 }

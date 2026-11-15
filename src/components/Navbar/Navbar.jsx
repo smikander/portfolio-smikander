@@ -35,8 +35,8 @@ const Navbar = () => {
         <a href="#projects">{t('navbar.projects')}</a>
         <a href="#education">{t('navbar.education')}</a>
         <a href="#contact">{t('navbar.contact')}</a>
+        <LanguageSwitcher />
       </div>
-      <LanguageSwitcher />
     </nav>
   );
 };
