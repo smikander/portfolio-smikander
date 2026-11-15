@@ -18,9 +18,15 @@
     -webkit-text-fill-color: transparent;
 }
 
+.navbar-links {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
 .navbar-links a {
     text-decoration: none;
-    margin: 1rem;
+    margin: 0;
     color: var(--color-secondary);
     font-size: 1.1rem;
     transition: color 0.3s ease;
@@ -56,12 +62,15 @@
         display: flex;
         width: 200px;
         position: absolute;
-        top: 60px;
-        right: 150px;
+        top: 100%;
+        right: 0;
         background-color: var(--color-surface);
         border: 1px solid var(--color-primary);
         box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.3);
         z-index: 10;
+        padding: 1rem;
+        gap: 0.75rem;
+        align-items: center;
     }
 
     .navbar-toggle {
@@ -85,11 +94,12 @@
 }
 
 @media (max-width: 500px) {
-    .navbar-name {
-        font-size: 1.2rem;
+    .navbar {
+        padding: 1rem;
+        gap: 0.5rem;
     }
 
-    .navbar button {
-        scale: 0.8;
+    .navbar-name {
+        font-size: 1.2rem;
     }
 }
